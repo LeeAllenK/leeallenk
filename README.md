@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
-       <img src="https://linkedin.com/in/kenny-allen-5934a5329" alt="this slowpoke moves"  width="250" />
+       <img src="https://linkedin.com/in/kenny-allen-5934a5329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV1nL91uHSGe4bPhV9XCM8g%3D%3D)" />
     </a>
 </div>

@@ -2,6 +2,28 @@
  <h1 align="center" class="heading-element" dir="auto">✩&emsp;Kenny&emsp;✩</h1>
 </div>
 <h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
+
+
+  
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2556476dd9fd1cc910b9b7047b572486f2d77537ee0a0b1b3447a337587115e9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d564944454f26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/2556476dd9fd1cc910b9b7047b572486f2d77537ee0a0b1b3447a337587115e9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d564944454f26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=VIDEO&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;"></a>
+  
+      </p>
+        <p dir="auto"><strong>Javascript, Bootstrap, Sass, Node.js, &amp; Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+    </td>
+    <td width="50%" valign="top">
+      <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Rigley 2: "Flappy Bug"</h3><a id="user-content-rigley-2-flappy-bug" class="anchor" aria-label="Permalink: Rigley 2: &quot;Flappy Bug&quot;" href="#rigley-2-flappy-bug"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+        <br>
+      <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" rel="nofollow">
+            <img src="/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%" alt="Rigley 2" data-animated-image="" style="max-width: 100%;">
+        </a>
+        <br>
+        <p align="center" dir="auto">
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
+    <img src="https://camo.githubusercontent.com/efdf02df4e564b93ecf69e421e9979b75afebfa9b5824816fb8bf64aa47c4c60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+  </a>
 <!--
  Hi there 👋
 **LeeAllenK/leeallenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

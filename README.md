@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <h1 align="center" class="heading-element" dir="auto">✩&emsp; Kenny&emsp;✩</h1>
+ <h1 align="center" class="heading-element" dir="auto">✩&emsp;Kenny&emsp;✩</h1>
 </div>
 <!--
  Hi there 👋

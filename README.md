@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" border="1px solid red">
   <h1>Kenny</h1>
   <img src="[insert an image of yourself or something you like]" width="200" />
 

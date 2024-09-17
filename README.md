@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate self-taught Software Engineer, I am self-motivated out to inspire others that hard work pays off.</h3>
+<h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

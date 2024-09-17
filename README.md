@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="left">
     <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/kenny-allen-5934a5329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV1nL91uHSGe4bPhV9XCM8g%3D%3D)"/>
+    <a href="https://www.linkedin.com/in/kenny-allen-5934a5329)"/>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>

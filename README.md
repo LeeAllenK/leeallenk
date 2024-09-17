@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <h1 width="300">Kenny</h1>
-  <img src="[insert an image of yourself or something you like]" width="200" />
-
+ <h1 align="center" class="heading-element" dir="auto">✩&emsp;The Official Kenny&emsp;✩</h1>
 </div>
 <!--
  Hi there 👋

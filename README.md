@@ -1,6 +1,7 @@
 <div id="header" align="center">
  <h1 align="center" class="heading-element" dir="auto">✩&emsp;Kenny&emsp;✩</h1>
 </div>
+<h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
 <!--
  Hi there 👋
 **LeeAllenK/leeallenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

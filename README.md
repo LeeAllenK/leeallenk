@@ -1,4 +1,4 @@
-<div id="header" align="center" style="background-color: hsl(0,0%,90%) ">
+<div id="header" align="center">
   <h1 >Kenny</h1>
   <img src="[insert an image of yourself or something you like]" width="200" />
 

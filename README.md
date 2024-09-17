@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <h1>Hello there, I'm Kenny Allen</h1>
+  <h1>Kenny</h1>
   <img src="[insert an image of yourself or something you like]" width="200" />
-  <p>[briefly describe yourself and your interests]</p>
+
 </div>
 <!--
  Hi there 👋

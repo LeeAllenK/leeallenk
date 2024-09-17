@@ -1,4 +1,8 @@
-<div style="width: 200px; height: 100px; border: 1px solid red; background-color:red;"> kenny allen</div>
+<div id="header" align="center">
+  <h1>Hello there, I'm Kenny Allen</h1>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
 <!--
  Hi there 👋
 **LeeAllenK/leeallenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

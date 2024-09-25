@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>Kenny</h1>
+</div>
 <h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
 
 <h3 align="left">Connect with me:</h3>

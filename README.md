@@ -5,8 +5,7 @@
 
 
 <a
-  width="300"
-  height="200"
+
   href="https://kennysportfolio.netlify.app/">
 </a>
 						

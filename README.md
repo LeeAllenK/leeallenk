@@ -5,8 +5,6 @@
 
 
 <a
-  id="inlineFrameExample"
-  title="Inline Frame Example"
   width="300"
   height="200"
   href="https://kennysportfolio.netlify.app/">

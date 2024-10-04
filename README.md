@@ -6,7 +6,7 @@
 
 <a
 
-  href="https://kennysportfolio.netlify.app/">
+  href="https://kennysportfolio.netlify.app/"
 </a>
 						
  

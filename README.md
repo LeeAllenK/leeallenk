@@ -11,7 +11,7 @@
 	allows users input their task and add them to a list. Don't worry if you no longer need that task the users can utilize the edit and
 	delete options available. </p>
 									
-<ul class="actions">
+</section>
 													
 <h3 align="left">Connect with me:</h3>
 <p align="left">

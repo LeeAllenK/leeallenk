@@ -5,7 +5,7 @@
 
 
 <section>								
-  <img class="imgNote" src="images/mynotes.jpeg" alt="my-notes
+  <img class="imgNote" src="images/mynotes.jpeg" alt="my-notes>
  	<h3>My Notes</h3>
 	<p>HTML5, CSS3, & Javascript - <br /> Need a little extra help with remembering task throughout your busy day. This note application
 	allows users input their task and add them to a list. Don't worry if you no longer need that task the users can utilize the edit and

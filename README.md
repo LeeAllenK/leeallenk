@@ -18,7 +18,11 @@
 													
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kennyallen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennyallen" height="30" width="40" /></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d3aad357be7f3b8e9b74238b2104d7276bc7bce78b396baff50fe1b9a8088a1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4558505245535326636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d65787072657373"><img src="https://camo.githubusercontent.com/6d3aad357be7f3b8e9b74238b2104d7276bc7bce78b396baff50fe1b9a8088a1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4558505245535326636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d65787072657373" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=EXPRESS&amp;color=bbb111&amp;style=plastic&amp;logo=express" style="max-width: 100%;"></a><a href="https://shawncharles.com/linkedin" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/57fad13d653a6a5ed1e7b53a2a38d1a6c618925918b7c48fd2825422d64b1790/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
+  </a><a href="https://shawncharles.com/resume" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/d8227430855e6256bb09e5a62ed2d43e9c7075fa937f7de166343988aeb816ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

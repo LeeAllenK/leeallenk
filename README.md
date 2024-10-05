@@ -1,8 +1,7 @@
 
-  <h1 align="center" >
-	<img src="http://readme-typing-svg.herokuapp.com/?
-	font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi + There ; + I'm Kenny!;"/>
-	</h1>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 <h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
 						

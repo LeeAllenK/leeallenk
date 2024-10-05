@@ -1,6 +1,6 @@
 
  <h1 align="center" style="color: red">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Kenny+Allen!;+A+passionate+self-taught;+Software+Engineer+out;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Kenny+Allen!;+A+passionate+self-taught;+software+engineer+out+to;+inspire+others+that+hard;"/>
 </h1>
 <!-- +Software+Engineer+out+to+inspire+others+that+hard+work+pays+off.+All+you+have+to+do+is+try!;" -->
 <h3 align="center">A passionate self-taught Software Engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>

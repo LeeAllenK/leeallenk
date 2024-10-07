@@ -1,6 +1,6 @@
 
  <h1 align="center" style="color: red">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=4000&pause=1000&color=34F700&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BF+I'm+Kenny+Allen!;A+passionate+self-taught+;software+engineer;out+to+inspire+others+hard+work;pays+off.;All+you+have+to+do+;Is+Try!;alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=4000&pause=1000&color=34F700&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BF+I'm+Kenny+Allen!;A+passionate+self-taught+;software+engineer;out+to+inspire+others+hard+work;pays+off.;All+you+have+to+do+;Is+Try!;" alt="Typing SVG" /></a>
 </h1>
 <!-- +Software+Engineer+out+to+inspire+others+that+hard+work+pays+off.+All+you+have+to+do+is+try!;" -->
 <h3 align="center">A passionate self-taught software engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>

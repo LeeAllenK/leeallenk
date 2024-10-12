@@ -1,7 +1,7 @@
 
  <h1 align="center">
-	 <h2 align="center">A passionate self-taught software engineer, out to inspire others that hard work pays off. All you have to do is try!</h2>
 </h1>
+	 <h2 align="center">A passionate self-taught software engineer, out to inspire others that hard work pays off. All you have to do is try!</h2>
 
 
  <img src="https://i.imgur.com/1wviAjh.gif" alt=Profile">

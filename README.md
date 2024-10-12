@@ -4,7 +4,6 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=4000&pause=1000&color=34F700&width=435&lines=%F0%9F%9B%91%F0%9F%9A%A7Under+Construction!!%F0%9F%9A%A7%F0%9F%9B%91" alt="Typing SVG" /></a>
  -->
 </h1>
-<!-- +Software+Engineer+out+to+inspire+others+that+hard+work+pays+off.+All+you+have+to+do+is+try!;" -->
 <h3 align="center">A passionate self-taught software engineer, out to inspire others that hard work pays off. All you have to do is try!</h3>
 						
 <h3 align="left">Technologies</h3>

@@ -1,6 +1,5 @@
 
  <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=4000&pause=1000&color=34F700&center=true&vCenter=true&width=435&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BF+I'm+Kenny+Allen!;A+passionate+self-taught+;software+engineer;out+to+inspire+others+hard+work;pays+off.;All+you+have+to+do+;Is+Try!;The+five+boxing+wizards+jump+quickly" alt="Typing SVG"  /></a>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=4000&pause=1000&color=34F700&width=435&lines=%F0%9F%9B%91%F0%9F%9A%A7Under+Construction!!%F0%9F%9A%A7%F0%9F%9B%91" alt="Typing SVG" /></a>
 	 
 </h1>

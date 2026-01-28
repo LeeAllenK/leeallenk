@@ -17,7 +17,7 @@
   </a><a href="https://www.linkedin.com/in/kenneth-allen-5934a5329" rel="nofollow" >
     <img src="https://camo.githubusercontent.com/0aee8286251c361e4a4471ffd76f38b9c5cec58adf9668e679165903b84db01f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
   </a><a href="https://fladev-portfolio.netlify.app/images/LeeResume.pdf"  rel="nofollow">
-      <img src="https://camo.githubusercontent.com/d8227430855e6256bb09e5a62ed2d43e9c7075fa937f7de166343988aeb816ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+      <img src="https://camo.githubusercontent.com/87e7638d3c205be4279c831666f1ba453f62053685ffee2f73dd63de164b7a62/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
   </a>
 </p>
 
